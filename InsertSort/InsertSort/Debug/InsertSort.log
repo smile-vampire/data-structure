@@ -1,14 +1,14 @@
-﻿生成启动时间为 2020/1/7 19:15:55。
-     1>项目“D:\data structure\InsertSort\InsertSort\InsertSort.vcxproj”在节点 2 上(Build 个目标)。
+﻿生成启动时间为 2020/1/8 19:23:49。
+     1>项目“D:\gitC资源\data-structure\InsertSort\InsertSort\InsertSort.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt InsertSort.c
          InsertSort.c
-     1>d:\data structure\insertsort\insertsort\insertsort.c(5): warning C4018: “<”: 有符号/无符号不匹配
+     1>d:\gitc资源\data-structure\insertsort\insertsort\insertsort.c(6): warning C4018: “<”: 有符号/无符号不匹配
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\data structure\InsertSort\Debug\InsertSort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\data structure\InsertSort\Debug\InsertSort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\data structure\InsertSort\Debug\InsertSort.lib" /MACHINE:X86 Debug\InsertSort.obj
-         InsertSort.vcxproj -> D:\data structure\InsertSort\Debug\InsertSort.exe
-     1>已完成生成项目“D:\data structure\InsertSort\InsertSort\InsertSort.vcxproj”(Build 个目标)的操作。
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\gitC资源\data-structure\InsertSort\Debug\InsertSort.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\gitC资源\data-structure\InsertSort\Debug\InsertSort.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\gitC资源\data-structure\InsertSort\Debug\InsertSort.lib" /MACHINE:X86 Debug\InsertSort.obj
+         InsertSort.vcxproj -> D:\gitC资源\data-structure\InsertSort\Debug\InsertSort.exe
+     1>已完成生成项目“D:\gitC资源\data-structure\InsertSort\InsertSort\InsertSort.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.43
+已用时间 00:00:01.22
